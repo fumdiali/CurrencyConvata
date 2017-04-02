@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KurrencyKonvata</string>
+    <string name="enter_btn">BEGIN!</string>
+    <string name="toNaira">Convert To Naira</string>
+    <string name="toNaira_btn">To Naira</string>
+    <string name="nextPage_btn">Go to Next Page</string>
+</resources>
